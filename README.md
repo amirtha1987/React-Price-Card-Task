@@ -1,7 +1,7 @@
 
 # React-Price-Card-Task
 
-This is a sample price-card showing website which was designed by me using React. It's Guvi-Zen class Roadmap session: Day-22 and React : Day-2 Task. This is my first React Project!
+This is a sample price-card showing website which was designed by me using React. It's Guvi-Zen class Roadmap session: Day-22 and React : Day-2 Task.<b> This is my first React Project!</b>
 
 ## Tech Stack
 
