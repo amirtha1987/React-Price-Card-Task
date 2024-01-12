@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+.card{
+  border-radius: 15px !important;
+}
+.card-text{
+  font-weight: 600 !important;
+}
+i{
+  margin-right: 0.5rem;
+}
+.fa-solid{
+  font-weight: bolder !important;
+}
+.btn{
+  border-radius: 40px !important;
+}
