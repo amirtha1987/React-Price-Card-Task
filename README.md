@@ -30,7 +30,7 @@ I learned to create react project as well as to include components in it which h
 ![App Screenshot](./src/Img/demo.png)
 
 
-## Screenshots
+## Setup
 
 Followig are the requirements to run this project:
 - Node Package Manager (NPM)
