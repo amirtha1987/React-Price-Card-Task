@@ -36,17 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
 .card{
   border-radius: 15px !important;
 }
 .card-text{
   font-weight: 600 !important;
 }
-i{
+.fa-check{
+  color: green;
   margin-right: 0.5rem;
 }
-.fa-solid{
-  font-weight: bolder !important;
+.fa-xmark{
+  color: red;
+  margin-right: 0.5rem;
 }
 .btn{
   border-radius: 40px !important;
