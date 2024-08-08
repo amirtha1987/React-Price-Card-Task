@@ -23,7 +23,7 @@ function Card(props){
                     }
                     
                     <div className="d-flex justify-content-center">
-                        <a href="#" className={`w-100 btn btn-primary text-uppercase fw-bold py-3 
+                        <a href="www.google.com" className={`w-100 btn btn-primary text-uppercase fw-bold py-3 
                         ${
                             props.name.planType !== 'Pro'
                             ? props.name.planType === 'Plus' ? 'opacity-75' : 'opacity-50'
@@ -39,7 +39,8 @@ function Card(props){
 
 export default Card;
 
-{/* <p className="card-text"><i className={`${props.name.icon[0]}`}></i> Single User</p>
+
+  /* <p className="card-text"><i className={`${props.name.icon[0]}`}></i> Single User</p>
 <p className="card-text"><i className={`${props.name.icon[1]}`}></i> 50GB Storage</p>
 <p className="card-text"><i className={`${props.name.icon[2]}`}></i> Unlimited Public Projects</p>
 <p className="card-text"><i className={`${props.name.icon[3]}`}></i> Community Access</p>
@@ -54,4 +55,4 @@ export default Card;
                     </p>
                 ))}
 
-*/}
+*/

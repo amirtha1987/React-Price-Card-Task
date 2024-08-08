@@ -55,10 +55,3 @@ function App() {
 export default App;
 
 
-{/* <Card name={{type:'FREE', rate:0, 
-        icon:["fa-solid fa-check", "fa-solid fa-check", "fa-solid fa-check", "fa-solid fa-check", 
-        "fa-solid fa-xmark", "fa-solid fa-xmark", "fa-solid fa-xmark", "fa-solid fa-xmark"]}}></Card>
-        <Card name={{type:'PLUS', rate:9, icon:["fa-solid fa-check", "fa-solid fa-check", "fa-solid fa-check", 
-        "fa-solid fa-check", "fa-solid fa-check", "fa-solid fa-check", "fa-solid fa-check", "fa-solid fa-xmark"]}}></Card>
-        <Card name={{type:'PRO', rate:49, icon:["fa-solid fa-check", "fa-solid fa-check", "fa-solid fa-check", 
-        "fa-solid fa-check", "fa-solid fa-check", "fa-solid fa-check", "fa-solid fa-check", "fa-solid fa-check"]}}></Card> */}
